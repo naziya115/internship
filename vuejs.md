@@ -3,3 +3,4 @@ Vue Js is a frontend JavaScript framework for building websites and user interfa
 
 * Framework is an arrangement that provides basic functionality around which i would add my own code
 * API — для получения доступа к каким-либо функциям, для взаимподействия с компонентом ПО
+* Пакет — оформленный блок данных, который передается по сети вв пакетном режиме
