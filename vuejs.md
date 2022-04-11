@@ -6,3 +6,4 @@ Vue Js is a frontend JavaScript framework for building websites and user interfa
 * Пакет — оформленный блок данных, который передается по сети в пакетном режиме
 * Node JS — платформа с открытым исходным кодом для работы с языком JavaScript, построенная на движке Chrome V8
 * npm (node package manager) — о стандартный менеджер пакетов, автоматически устанавливающийся вместе с Node.js
+
