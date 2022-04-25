@@ -4,3 +4,5 @@
 * ~~translate from english to kazakh~~
 * play with the colors and styles in profile page
 
+* at home: translate articles
+
