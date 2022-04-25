@@ -1,4 +1,4 @@
-! Fistly go yo your folder and do all the work there
+! Fistly go to your folder and do all the work there
 
 ### to compile code automatically but on localhost
 * git run watch
