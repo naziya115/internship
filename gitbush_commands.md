@@ -1,5 +1,5 @@
 ! Fistly go to your folder and do all the work there
-cd C:/OpenServer/domains/qazaqsha-uirenu
+### cd C:/OpenServer/domains/qazaqsha-uirenu
 
 
 ### to compile code automatically but on localhost
