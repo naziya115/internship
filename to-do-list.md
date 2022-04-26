@@ -3,6 +3,6 @@
 * change sozdik position
 * ~~translate from english to kazakh~~
 * play with the colors and styles in profile page
-
-* at home: translate articles
+* translate articles
+* change the style of tests
 
