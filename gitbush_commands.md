@@ -3,7 +3,7 @@
 
 
 ### to compile code automatically but on localhost
-* git run watch
+* npm run watch
 
 ### to commit code to the server:
 * git add. 
