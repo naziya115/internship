@@ -4,5 +4,5 @@
 * ~~translate from english to kazakh~~
 * play with the colors and styles in profile page
 * translate articles
-* change the style of tests
+* ~~change the style of tests~~
 
