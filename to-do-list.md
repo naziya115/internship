@@ -3,6 +3,8 @@
 * ~~change sozdik position~~
 * ~~translate from english to kazakh~~
 * ~~play with the colors and styles in profile page~~
-* translate articles
+* ~~translate articles~~
+* copy
+* php learning
 * ~~change the style of tests~~
 
