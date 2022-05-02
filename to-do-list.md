@@ -4,7 +4,13 @@
 * ~~translate from english to kazakh~~
 * ~~play with the colors and styles in profile page~~
 * ~~translate articles~~
-* copy
-* php learning
+* ~~copy~~
+* php learning — learn about the basics and try to look at the backend code of the project
 * ~~change the style of tests~~
+
+### Things to ask:
+* how to change the tests date like its too long
+* how to add icons for copy button and also for tests
+* translation of the images and videos
+* why it's white when i translate
 
