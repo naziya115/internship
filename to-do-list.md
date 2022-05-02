@@ -10,7 +10,7 @@
 
 ### Things to ask:
 * how to change the tests date like its too long
-* how to add icons for copy button and also for tests
+* how to add icons for tests
 * translation of the images and videos
 * why it's white when i translate
 
