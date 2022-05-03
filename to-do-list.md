@@ -14,3 +14,7 @@
 * translation of the images and videos
 * why it's white when i translate
 
+03.05.
+### To-Do list 
+* remove table 
+* v-if empty — don't show
