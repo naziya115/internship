@@ -6,5 +6,5 @@
 * ~~translate nav menu to latin — sun:~~
 
 ### Extra:
-* try to use converter method
+* ~~try to use converter method~~
 * rebuild your website in vue js
