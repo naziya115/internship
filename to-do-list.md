@@ -3,4 +3,4 @@
 * ~~translate with images — wed~~
 * ~~btn and back in tests — thu~~
 * ~~converter btn — fri~~
-* translate nav menu to latin — sun: converter text, okylyk, main page, plazhka
+* translate nav menu to latin — sun: main page, plazhka
