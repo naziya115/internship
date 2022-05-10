@@ -13,3 +13,5 @@
 * go to bitbucket and push it
 ### to pull code from the server:
 * git push origin naz_mi
+### to discard all the changes:
+* git checkout -- .
