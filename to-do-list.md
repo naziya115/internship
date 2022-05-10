@@ -1,10 +1,5 @@
-03.05.
+10.05.
 ### To-Do list 
-* ~~translate with images — wed~~
-* ~~btn and back in tests — thu~~
-* ~~converter btn — fri~~
-* ~~translate nav menu to latin — sun:~~
-
-### Extra:
-* ~~try to use converter method~~
-* rebuild your website in vue js
+* create a method converter in plugin
+* use converter everywhere
+* modify prev code
