@@ -2,4 +2,4 @@
 ### To-Do list 
 * ~~create a method converter in plugin~~
 * ~~use converter everywhere~~
-* modify prev code: converter, tests, profile, header-nav
+* modify prev code: tests, profile, header-nav
