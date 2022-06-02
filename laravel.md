@@ -4,12 +4,12 @@
 php artisan make:model Test
 ```
 
-* to create a db magration
+* to create a db migration
 ```
 php artisan make:migration create_tests_table
 ```
 
-* to create controller
+* to create a controller
 
 ```
 php artisan make:model Test -cr
