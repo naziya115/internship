@@ -25,3 +25,7 @@ php artisan make:model Test -cr
 php artisan migrate
 ```
 
+* replacement to npm run watch
+```
+php artisan serve
+```
